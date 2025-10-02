@@ -24,3 +24,21 @@
 --- 
 ## Ответ
 
+Так понял судя по лекции в первом задании часть 2 со звездочкой (дополнительное). Пытался пробовать через регистрацию доменного имени бесплатного для теста на пару часов, но сыпало разные ошибки и не видело его, поэтому сделал первую часть только. 
+
+Поднял ещё разок все с нуля, немного с конфигами игрался.
+![ресы](https://github.com/Takarigua/clopro-homeworks-15-3/blob/f35a8a5a59f15f1b34ee5aee6063390270420ffb/screen/%D0%A0%D0%B5%D1%81%D1%8B.png)
+
+---
+
+Сделал kms и зашифровал, затем дешифровал и сравнивал.
+![крипт](https://github.com/Takarigua/clopro-homeworks-15-3/blob/f35a8a5a59f15f1b34ee5aee6063390270420ffb/screen/%D0%BA%D1%80%D0%B8%D0%BF%D1%82.png)
+
+---
+
+![ключ](https://github.com/Takarigua/clopro-homeworks-15-3/blob/f35a8a5a59f15f1b34ee5aee6063390270420ffb/screen/%D0%9A%D0%BB%D1%8E%D1%87.png)
+
+---
+
+А это уже просто сайт по имени что выдал яндекс
+![сайт](https://github.com/Takarigua/clopro-homeworks-15-3/blob/f35a8a5a59f15f1b34ee5aee6063390270420ffb/screen/%D0%A1%D0%B0%D0%B9%D1%82.png)
